@@ -1,2 +1,6 @@
-**/Pods
-**/xcuserdata
+# CocoaPods
+Pods
+
+# Xcode
+xcuserdata
+build
